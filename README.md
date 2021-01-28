@@ -168,5 +168,5 @@ calculateBtn.addEventListener('click',function(e){
 ## RESULT:
 ```
 Thus a websites are designed for calculate the area of a circle and volume of a cylinder using
-JavaScript and is hosted in the URL http://loki.student.saveetha.in:8000/matharea and http://loki.student.saveetha.in:8000/mathvolume . HTML code is validated.
+JavaScript and is hosted in the URL http://loki.student.saveetha.in:8000/matharea/ and http://loki.student.saveetha.in:8000/mathvolume/ . HTML code is validated.
 ```
